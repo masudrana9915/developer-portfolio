@@ -23,7 +23,7 @@
 nav{
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 nav li{
     list-style: none;
@@ -81,6 +81,7 @@ main{
    margin-bottom: 50px;
    font-weight: 700;
    font-size: 35px;
+   margin-top: 130px;
 }
 
 .section-description{
